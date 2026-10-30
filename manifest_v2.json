@@ -1,0 +1,28 @@
+{
+  "item": {
+    "id": "jz_xkzy",
+    "restype": "res_pack",
+    "name": "星空之翼字体",
+    "description": "基于corona的字体包，免费使用。",
+    "preview": [
+      "media/3878.jpg"
+    ],
+    "icon": "media/3881.jpg",
+    "cover": "media/3878.jpg",
+    "author": [
+      {
+        "name": "oylin",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmb10p": {
+      "version": "1.0.0",
+      "file_name": "downloads/jz_xkzy.crpack",
+      "versionCode": 1
+    }
+  },
+  "ext": {}
+}
